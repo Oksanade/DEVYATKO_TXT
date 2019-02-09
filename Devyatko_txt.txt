@@ -1,0 +1,4 @@
+<author_comment><speech> А затем на миг <speech_verb> воцарялось молчание;
+ а затем <speech_verb> <movement> взлетала на воздух стая охов вздохов.
+ Плечи <speech_verb> подымались до ушей, брови до шапок ропот <speech_verb> сливался в <author> <characteristic> <emotional> умолительное восклицание:
+ <said> <direct> <who> <undefined> <aloud> <true> "аман, аман (пощади, помилуй)!".
